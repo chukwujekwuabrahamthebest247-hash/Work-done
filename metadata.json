@@ -1,0 +1,9 @@
+{
+  "name": "Nexus Pro AI",
+  "description": "A high-performance AI chat interface with OpenRouter integration, research grounding via Serper/Tavily, built-in voice synthesis, and a secure configuration vault.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
